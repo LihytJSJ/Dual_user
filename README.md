@@ -2,7 +2,7 @@
 
 This repository contains the standalone fed-batch fermentation benchmark used
 to evaluate GOAC. It includes the simulator, other control stacks, eight scenarios,
-repeated-seed experiment orchestration, plotting, and automated checks.
+repeated-seed experiment orchestration.
 
 ## Control stacks
 
