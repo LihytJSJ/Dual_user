@@ -1,0 +1,4 @@
+# Versions used to verify this public bundle. Python 3.10-3.12 recommended.
+numpy==1.26.4
+pandas==2.2.2
+scipy==1.13.1
